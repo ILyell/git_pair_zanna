@@ -1,5 +1,5 @@
 class class
-    def initialize
+    def initialize(blah)
         blah
     end
 end
